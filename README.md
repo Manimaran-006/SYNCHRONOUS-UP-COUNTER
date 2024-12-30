@@ -1,6 +1,6 @@
 ## NAME:MANIMARAN V
 ## REG.NO:24008541
-## EXPERIMENT 11:SYNCHRONOUS-UP-COUNTER
+## EXPERIMENT 11:SYNCHRONOUS UP COUNTER
 ## AIM:
 
 To implement 4 bit synchronous up counter and validate functionality.
